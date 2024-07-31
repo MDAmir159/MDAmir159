@@ -1,4 +1,3 @@
-![MasterHead]
 <h1 align="center">Assalamu Alaikum, I'm MD. Amirul Islam</h1>
 <h3 align="center">A passionate JavaScript developer from Bangladesh.</h3>
 
