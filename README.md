@@ -5,19 +5,19 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mdamir159" alt="mdamir159" /></a> </p>
 
-- 🌱 Proficient in implementing Architecture with Next.js and skilled in the [Refine](https://refine.dev) framework.
+- 🌱 Proficient in implementing Architecture with [Next.js](https://nextjs.org/) and skilled in the [Refine](https://refine.dev) framework.
 
-- 🤖 Experienced in using TensorFlow.js for browser-based machine learning, especially in computer vision.
+- 🤖 Experienced in using [TensorFlow.js](https://www.tensorflow.org/js) for browser-based machine learning, especially in computer vision.
 
 - ⚛️ Strong in React, JavaScript, TypeScript, and Vanilla JS.
 
-- 📹 Skilled in using MDN Web APIs for capturing, recording, and video transmission via APIs in base64.
+- 📹 Skilled in using [MDN](https://developer.mozilla.org/en-US/) Web APIs for capturing, recording, and video transmission via APIs in base64.
 
-- 🎞️ Familiar with video.js for advanced video manipulation.
+- 🎞️ Familiar with [video.js](https://videojs.com) for advanced video manipulation.
 
-- 🔄 Experienced with Context API and Redux for complex state management.
+- 🔄 Experienced with Context API and [Redux](https://redux.js.org/) for complex state management.
 
-- 🎨 Proficient with Ant Design to create responsive, user-friendly interfaces.
+- 🎨 Proficient with [Ant Design](https://ant.design/) to create responsive, user-friendly interfaces.
 
 - 👥 Having experience working as a team leader, guiding and collaborating with design, project management, and cross-functional teams.
 
