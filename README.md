@@ -1,6 +1,6 @@
 ## 💫 About Me:
 
-- 🌱 Proficient in implementing Architecture with [Next.js](https://nextjs.org/), [ASP.NET Core](https://dotnet.microsoft.com/en-us/apps/aspnet) and [Express.js](https://expressjs.com/) and skilled in the [Refine](https://refine.dev) framework.
+- 🌱 Proficient in implementing Architecture with [Next.js](https://nextjs.org/), [ASP.NET Core](https://dotnet.microsoft.com/en-us/apps/aspnet), [Express.js](https://expressjs.com/) and skilled in the [Refine](https://refine.dev) framework.
 
 - 🤖 Experienced in using [TensorFlow.js](https://www.tensorflow.org/js) for browser-based machine learning, especially in computer vision.
 
